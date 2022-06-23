@@ -1,5 +1,7 @@
 # Jogo do Mario
-/home/sofia/Vídeos/Emissão de vídeo de 16-06-2022 17:35:56.webm
+
+![image](https://user-images.githubusercontent.com/101151964/175331481-9a14a563-6657-4554-aab1-586400e84448.png)
+
 ## : Technologies ##
 
 The following tools were used in this project:
